@@ -1,5 +1,6 @@
 # OAuth
 
+## Overview\usage
 Used to share details from one system in another without sharing credentials. Let's say twitter wants to post on Facebook if the user logged in to twitter via Facebook identity service and the user consented then twitter could post on that user facebook page.
 
 If you are building a service where you need to use a user’s private data that is stored on another system — use OAuth. If not — you might want to rethink your approach!
@@ -177,5 +178,5 @@ B -- Access token --> A
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTQ3NTA2M119
+eyJoaXN0b3J5IjpbLTIwNDIyMDcyOTNdfQ==
 -->
