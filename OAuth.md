@@ -5,6 +5,8 @@ Used to share details from one system in another without sharing credentials. Le
 
 If you are building a service where you need to use a user’s private data that is stored on another system — use OAuth. If not — you might want to rethink your approach!
 
+If you
+
 ## 1) Actors
 **OAuth provider\Auth server:**
 Consists of 
@@ -178,5 +180,5 @@ B -- Access token --> A
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDIyMDcyOTNdfQ==
+eyJoaXN0b3J5IjpbLTU2NjQzNDM5N119
 -->
