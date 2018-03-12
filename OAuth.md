@@ -1,5 +1,12 @@
 # OAuth
 
+## Overview
+
+> You should only use OAuth if you actually need it. If you are building
+> a service where you need to use a user’s private data that is stored
+> on another system — use OAuth. If not — you might want to rethink your
+> approach!
+
 ## 1) Actors
 **OAuth provider\Auth server:**
 Consists of 
@@ -173,6 +180,6 @@ B -- Access token --> A
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTQ5NTY1NzcsLTE1MDg1Mjg0NjhdfQ
+eyJoaXN0b3J5IjpbLTEyMTgyMjQxNTQsLTE1MDg1Mjg0NjhdfQ
 ==
 -->
