@@ -1,5 +1,7 @@
 # OAuth
 
+If you are building a service where you need to use a user’s private data that is stored on another system — use OAuth. If not — you might want to rethink your approach!
+
 ## 1) Actors
 **OAuth provider\Auth server:**
 Consists of 
@@ -173,5 +175,5 @@ B -- Access token --> A
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTQ5NTY1NzddfQ==
+eyJoaXN0b3J5IjpbLTIzOTA5NzQxOV19
 -->
