@@ -1,6 +1,6 @@
 # OAuth
 
-Used to share details from one system in another without sharing
+Used to share details from one system in another without sharing credentials. A us
 
 If you are building a service where you need to use a user’s private data that is stored on another system — use OAuth. If not — you might want to rethink your approach!
 
@@ -177,5 +177,5 @@ B -- Access token --> A
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDQ3Njg2N119
+eyJoaXN0b3J5IjpbLTYxMTE3MDU2OF19
 -->
