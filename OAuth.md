@@ -179,7 +179,15 @@ B -- Access token --> A
 
 ```
 
+## Should I use OAuth for my APIs?
+
+Only use OAuth if your APIs meet the following criteria:
+
+1.  Your API exposes consumer or user specific data
+2.  Third party developers that you don’t trust want access to some of the user specific data
+3.  You want to ask your users if they want to share their data with the third party developer
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTgyMjQxNTQsLTE1MDg1Mjg0NjhdfQ
+eyJoaXN0b3J5IjpbLTIwNzkxNDc5NTcsLTE1MDg1Mjg0NjhdfQ
 ==
 -->
